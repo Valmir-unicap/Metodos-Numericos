@@ -331,5 +331,4 @@ ans =
 0.0008458
 
 --> //Acheiiii
---> //Como |f(x)|<E, então x=1.4309692 é uma boa aproximação da raiz de
-f(x)
+--> //Como |f(x)|<E, então x=1.4309692 é uma boa aproximação da raiz de f(x)
