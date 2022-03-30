@@ -1,4 +1,5 @@
 --> //Resolução da questão 1 da letra a
+
 --> //Foi usado o método da bisseção
 
 --> //f(x)= sqrt(x)-5e^-x
