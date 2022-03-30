@@ -17,5 +17,4 @@ ir =
 
 13.373333
 
---> Consumo encontrado, enquanto a velocidade for 80 km/h o consumo gasto será
-de aproximadamente 13.4 km/l.
+--> Consumo encontrado, enquanto a velocidade for 80 km/h o consumo gasto será de aproximadamente 13.4 km/l.
