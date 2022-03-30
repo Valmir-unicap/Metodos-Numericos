@@ -1,4 +1,4 @@
-b) //Código usado para executar
+//Código usado para executar
 // Sistemas de equações 2X2, 3X3 e 4x4 Método de Gauss
 clear
 clc
