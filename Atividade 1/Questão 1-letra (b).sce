@@ -343,4 +343,5 @@ ans =
 0.0003736
 
 --> //Achei
+
 -- >//Como |f(x)| <E, então x= -1.2709961 é uma boa aproximação da raiz de f(x).
